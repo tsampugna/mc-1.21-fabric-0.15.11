@@ -62,13 +62,13 @@ More detailed instructions are on the [Fabric Wiki](https://fabricmc.net/wiki/in
 
 ![](attachments/Pasted%20image%2020240705134117.png)
 
-![](Pasted%20image%2020240705134159.png)
+![](attachments/Pasted%20image%2020240705134159.png)
 
-![](launcher01.png)
+![](attachments/launcher01.png)
 
-![](Pasted%20image%2020240705135715.png)
+![](attachments/Pasted%20image%2020240705135715.png)
 
 ##### Locating Mods Folder
 Under Installations, you can duplicate the Installation and click on the folder to locate your .minecraft folder. Place all Mods in the mods folder.
-![](launcher02.png)
+![](attachments/launcher02.png)
 
