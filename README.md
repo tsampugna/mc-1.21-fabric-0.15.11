@@ -60,7 +60,7 @@ More detailed instructions are on the [Fabric Wiki](https://fabricmc.net/wiki/in
 3) Press Install. A new game version and profile will be created in the launcher's menu, which you can now use to launch Fabric
 4) You may then want to launch your newly created instance once, and then add [Fabric API](https://modrinth.com/mod/fabric-api/versions) to your instance's mods folder as most mods will need it
 
-![](Pasted%20image%2020240705134117.png)
+![](attachments/Pasted%20image%2020240705134117.png)
 
 ![](Pasted%20image%2020240705134159.png)
 
