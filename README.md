@@ -1,12 +1,5 @@
 # mc-1.21-fabric-0.15.11
 Fabric Installer and Mods for some Client Side improvements
----
-tags:
-  - tutorial
-  - install
-  - minecraft
----
-
 
 # TLDR;
 -  Install Fabric-installer-1.0.1  (See [Installing Fabric](#Installing%20Fabric) below)
