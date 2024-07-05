@@ -19,6 +19,7 @@ Fabric Installer and Mods for some Client Side improvements
 - JourneyMap [link](http://journeymap.info/)
 - Shulker Box Tooltip [link](https://modrinth.com/mod/shulkerboxtooltip)
 - Sodium [link](https://modrinth.com/mod/sodium)
+
 The following are Masa Mods and the latest are usually maintained by Sakura before merged into the main branch. Links will go to their repos. Some features of these are not fully working when used as client-side only. 
 - MaLiLib [link](https://github.com/sakura-ryoko/malilib/releases)
 - Litematica [link](https://github.com/sakura-ryoko/litematica/releases)
